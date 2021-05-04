@@ -7,7 +7,7 @@ This project has the goal to simplify the quarterly access review process by enc
 ### Our Sponsor
 ![Smartsheet Logo](/sponsor_logo.png)
 
-Smartsheet is a collaborative work management software based out of Bellevue, WA. We worked with the Smartsheet Compliance Team led by Sam Bradley. The compliance team focuses on all compliance and security related items at Smartsheet.
+Smartsheet is a collaborative work management software based out of Bellevue, WA. We worked with the Smartsheet Compliance Team led by Sam Bradley. The compliance team focuses on all compliance and security related items at Smartsheet. 
 
 ### The Workflow
 ![IAM flow diagram](/flow.png)
