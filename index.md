@@ -34,10 +34,10 @@ Feature 3
 
   <img src="/img/team/Nitya.jpeg" alt="Nitya Krishna Kumar" width="100" />
   <img src="/img/team/Sruthi.jpg" alt="Sruthi Dikkala" width="100" />
-  <img src="/img/team/Sowmya.jpg" alt="Sowmya Doshi" width="100" />
+  <img src="/img/team/Somya.jpg" alt="Somya Doshi" width="100" />
 </figure>
 
-![Greyson Fields](/img/team/Greyson.png) ![Nitya Krishna Kumar](/img/team/Nitya.jpeg) ![Sruthi Dikkala](/img/team/Sruthi.jpg) ![Sowmya Doshi](/img/team/Sowmya.jpg)
+![Greyson Fields](/img/team/Greyson.png) ![Nitya Krishna Kumar](/img/team/Nitya.jpeg) ![Sruthi Dikkala](/img/team/Sruthi.jpg) ![Somya Doshi](/img/team/Somya.jpg)
 
 ### Project Status
 This is a University of Washington Information School Capstone project for Winter/Spring 2021 sponsored by Smartsheet.
