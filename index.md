@@ -27,10 +27,8 @@ Feature 3
 
 ### The Team
 **We are Team Smartians!**
-![Greyson Fields](/img/team/Greyson.png)
-![Nitya Krishna Kumar](/img/team/Nitya.png)
-![Sruthi Dikkala](/img/team/Sruthi.png)
-![Sowmya Doshi](/img/team/Sowmya.png)
+
+![Greyson Fields](/img/team/Greyson.png) ![Nitya Krishna Kumar](/img/team/Nitya.png) ![Sruthi Dikkala](/img/team/Sruthi.png) ![Sowmya Doshi](/img/team/Sowmya.png)
 
 
 ### Project Status
