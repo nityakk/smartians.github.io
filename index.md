@@ -23,23 +23,26 @@ Feature 3
 ![Feature 3 metrics and visualizations](/img/features/feature3.png)
 
 ### Presentation Video
-<iframe width="900" src="https://www.youtube.com/watch?v=yfiHZJPxTW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=yfiHZJPxTW8"></iframe>
 
 ### The Team
 **We are Team Smartians!**
 
 <figure class="team">
-  <img src="/img/team/Greyson.png" alt="Greyson Fields" width="100" />
+  <img src="/img/team/Greyson.png" alt="Greyson Fields"/>
   <figcaption>Greyson Fields</figcaption>
 
   <img src="/img/team/Nitya.jpeg" alt="Nitya Krishna Kumar" width="100" />
-  <img src="/img/team/Sruthi.jpg" alt="Sruthi Dikkala" width="100" />
-  <img src="/img/team/Somya.JPG" alt="Somya Doshi" width="100" />
+  <img src="/img/team/Sruthi.JPG" alt="Sruthi Dikkala" width="100" />
+  <img src="/img/team/Somya.jpg" alt="Somya Doshi" width="100" />
 </figure>
-
-[//]: # ![Greyson Fields](/img/team/Greyson.png) ![Nitya Krishna Kumar](/img/team/Nitya.jpeg) ![Sruthi Dikkala](/img/team/Sruthi.jpg) ![Somya Doshi](/img/team/Somya.JPG)
 
 ### Project Status
 This is a University of Washington Information School Capstone project for Winter/Spring 2021 sponsored by Smartsheet.
 
 By June of 2021, we will have handed over all documentation and code to our Smartsheet.
+
+archived
+![Greyson Fields](/img/team/Greyson.png) ![Nitya Krishna Kumar](/img/team/Nitya.jpeg) ![Sruthi Dikkala](/img/team/Sruthi.jpg) ![Somya Doshi](/img/team/Somya.JPG)
+
+<iframe width="900" src="https://www.youtube.com/watch?v=yfiHZJPxTW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
