@@ -35,7 +35,7 @@ Feature 3
   <img src="/img/team/Nitya.jpeg" alt="Nitya Krishna Kumar" width="100" />
   <img src="/img/team/Sruthi.jpg" alt="Sruthi Dikkala" width="100" />
   <img src="/img/team/Sowmya.jpg" alt="Sowmya Doshi" width="100" />
-</p>
+</figure>
 
 ![Greyson Fields](/img/team/Greyson.png) ![Nitya Krishna Kumar](/img/team/Nitya.jpeg) ![Sruthi Dikkala](/img/team/Sruthi.jpg) ![Sowmya Doshi](/img/team/Sowmya.jpg)
 
