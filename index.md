@@ -28,8 +28,12 @@ Feature 3
 ### The Team
 **We are Team Smartians!**
 
-![Greyson Fields](/img/team/Greyson.png) ![Nitya Krishna Kumar](/img/team/Nitya.jpeg) ![Sruthi Dikkala](/img/team/Sruthi.jpg) ![Sowmya Doshi](/img/team/Sowmya.jpg)
-
+<p float="left">
+  <img src="/img/team/Greyson.png" width="100" />
+  <img src="/img/team/Nitya.jpeg" width="100" />
+  <img src="/img/team/Sruthi.jpg" width="100" />
+  <img src="/img/team/Sowmya.jpg" width="100" />
+</p>
 
 ### Project Status
 This is a University of Washington Information School Capstone project for Winter/Spring 2021 sponsored by Smartsheet.
