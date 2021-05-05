@@ -16,9 +16,10 @@ Smartsheet is a collaborative work management software based out of Bellevue, WA
 
 
 ### Presentation Video
-
+<iframe width="1280" height="720" src="https://www.youtube.com/watch?v=yfiHZJPxTW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The Team
+
 
 ### Project Status
 This is a Smartsheet Sponsored University of Washington Information School Capstone project for Winter/Spring 2021.
