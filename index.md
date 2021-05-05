@@ -13,10 +13,17 @@ Smartsheet is a collaborative work management software based out of Bellevue, WA
 ![IAM flow diagram](/flow.png)
 
 ### Features
+Feature 1
+![Feature 1 dashboard and general metrics](/feature1.png)
 
+Feature 2
+![Feature 2 quarterly changes report](/feature2.png)
+
+Feature 3
+![Feature 3 metrics and visualizations](/feature3.png)
 
 ### Presentation Video
-<iframe width="1280" height="720" src="https://www.youtube.com/watch?v=yfiHZJPxTW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" src="https://www.youtube.com/watch?v=yfiHZJPxTW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The Team
 
