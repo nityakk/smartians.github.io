@@ -28,12 +28,12 @@ Feature 3
 ### The Team
 **We are Team Smartians!**
 
-<img src="/img/team/Greyson.png" alt="Greyson Fields" width="100"/> ![Greyson Fields](/img/team/Greyson.png)
+<img src="/img/team/Greyson.png", alt="Greyson Fields", width="100"/>
 <figcaption>Greyson Fields</figcaption>
 
-<img src="/img/team/Nitya.jpeg" alt="Nitya Krishna Kumar" width="100" />
-<img src="/img/team/Sruthi.JPG" alt="Sruthi Dikkala" width="100" />
-<img src="/img/team/Somya.jpg" alt="Somya Doshi" width="100" />
+<img src="/img/team/Nitya.jpeg", alt="Nitya Krishna Kumar", width="100" />
+<img src="/img/team/Sruthi.JPG", alt="Sruthi Dikkala", width="100" />
+<img src="/img/team/Somya.jpg", alt="Somya Doshi", width="100" />
 
 
 ### Project Status
