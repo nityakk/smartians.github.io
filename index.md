@@ -6,7 +6,7 @@
 Our project aims to solve a myriad of problems with the current quarterly access review process at Smartsheet. Quarterly access reviews are when a company’s compliance team ensures that employees have the correct access permissions to applications. For example, if a Senior Director leaves the company and still has access to their account, this would be a compliance issue. Smartsheet’s access reviews are a manual process of pulling user access data for each system. It’s time-consuming and draws a lot of resources. With our Identity and Access Management Dashboard, employee changes are tracked with custom automations. Metrics are used to present historical data of employee changes which can help plan for future review processes. The dashboard presents key employee change metrics and a report that contains daily employee changes, highlighting the data attribute that was changed and highlights employees that have left the company. Smartsheet’s Compliance team will be able to save time and resources with the addition of having key actionable insights to employee changes.
 
 ## Our Sponsor
-![Smartsheet Logo](/img/sponsor_logo.png)
+[![Smartsheet Logo](/img/sponsor_logo.png)](https://www.smartsheet.com/)
 
 Smartsheet is a collaborative work management software based out of Bellevue, WA. We worked with the Smartsheet Compliance Team led by Sam Bradley. The compliance team focuses on all compliance and security related items at Smartsheet.
 
