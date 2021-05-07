@@ -16,12 +16,15 @@ Smartsheet is a collaborative work management software based out of Bellevue, WA
 
 ### Features
 **Metrics**
+
 ![Feature 1 dashboard and general metrics](/img/features/feature1.png)
 
 **Quarterly Changes Report**
+
 ![Feature 2 quarterly changes report](/img/features/feature2.png)
 
 **Visualizations**
+
 ![Feature 3 metrics and visualizations](/img/features/feature3.png)
 
 <iframe src="https://www.youtube.com/watch?v=yfiHZJPxTW8"></iframe>
@@ -33,16 +36,16 @@ Smartsheet is a collaborative work management software based out of Bellevue, WA
 User Research and Design \
  _gfields5@uw.edu_
 
-**Nitya Krishna Kumar**
-Product Manager
+**Nitya Krishna Kumar** \
+Product Manager \
 _nityak@uw.edu_
 
-**Sruthi Dikkala**
-Data Analyst
+**Sruthi Dikkala** \
+Data Analyst \
 _dikkala@uw.edu_
 
-**Somya Doshi**
-Developer and Data Analyst
+**Somya Doshi** \
+Developer and Data Analyst \
 _somyad@uw.edu_
 
 ### Project Status
