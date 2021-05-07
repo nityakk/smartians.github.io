@@ -1,5 +1,4 @@
-# Smartsheet Identity and Access Management (IAM) Automation
-## Automating the quarterly access review process
+# Automating the quarterly access review process
 
 
 
