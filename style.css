@@ -1,0 +1,24 @@
+
+.coloredtext {
+  font-size: 1rem;
+  font-weight: 300;
+  color: #ddffdd
+}
+
+.defcard {
+  background-color: #ddffdd;
+  border-left: 6px solid #04AA6D;
+  display: flex;
+  flex-direction: column;
+  margin: 1rem auto;
+  box-shadow: 0 3px 7px -1px rgba(#000, .1);
+  margin-bottom: 1.6%;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+p {
+  position: relative;
+  margin: 1rem 0 0;
+  font-size: 2rem;
+}
