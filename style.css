@@ -1,13 +1,13 @@
 
 .coloredtext {
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: 300;
-  color: #ddffdd
+  color: #5FB6D0
 }
 
 .defcard {
-  background-color: #ddffdd;
-  border-left: 6px solid #04AA6D;
+  background-color: #5FB6D0;
+  border-left: 6px solid #5FB6D0;
   display: flex;
   flex-direction: column;
   margin: 1rem auto;
@@ -17,8 +17,19 @@
   overflow: hidden;
 }
 
+.sectionheader {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
 p {
   position: relative;
   margin: 1rem 0 0;
-  font-size: 2rem;
+  font-size: 1.5rem;
+}
+
+ul {
+  position: relative;
+  margin: 1rem 0 0;
+  font-size: 1.5rem;
 }
