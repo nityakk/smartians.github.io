@@ -22,7 +22,7 @@
 
 .sponsorlogo {
   margin: auto;
-  width: 50%
+  width: 50%;
   box-shadow: 0 3px 7px -1px rgba(#000, .1);
 }
 
@@ -72,7 +72,6 @@ h1 {
   font-weight: bold;
   text-transform: uppercase;
   text-shadow: 4px 4px 5px #003059;
-  text-align: center;
   letter-spacing: 4px;
 }
 
@@ -81,5 +80,4 @@ h2 {
   font-weight: 500rem;
   text-transform: capitalize;
   color: #003059;
-  text-align: center;
 }
