@@ -57,13 +57,13 @@
   padding: 10px 20px;
 }
 
-.team-fourths img {
+.teamimg {
   float: left;
   width: 25%;
   padding: 5px;
 }
 
-.team-fourths:hover img {
+.teamimg:hover {
   opacity: 0.7;
   filter: grayscale(75%);
 }
