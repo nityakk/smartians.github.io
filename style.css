@@ -1,3 +1,9 @@
+body {
+  background-color: #f8f8ff;
+  margin: 0;
+  font-size: 22px;
+}
+
 .headings {
   text-align:right;
   background-image: url("./img/header.png");
@@ -7,63 +13,101 @@
 }
 
 .sectionheader {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: 700;
   letter-spacing: 5px;
   text-transform: uppercase;
   text-align: center;
   margin-top: 10px;
   color: #003059;
+  padding-top:30px;
 }
 
 .sponsor {
-  padding: 100px;
-  padding-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 45px;
+  padding-bottom: 45px;
 }
 
 .sponsorlogo {
   margin: auto;
-  width: 50%;
-  height: auto;
+  float: left;
+  height: 50px;
   box-shadow: 0 3px 7px -1px rgba(#000, .1);
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 30px;
 }
 
 .sponsorlogo:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
+.about div {
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-top: 20px;
+}
+
 .defcard {
   background-color: #ADCAEF;
-  border-left: 6px solid #003059;
-  box-shadow: 0 3px 7px -1px rgba(#000, .1);
-  margin-left: 2%;
-  margin-bottom: 1.6%;
+  border-left: 15px solid #003059;
+  box-shadow: 2px 3px 3px -2px #003059;
   border-radius: 5px;
   font-size: 1.5rem;
   width: 75%;
-  padding: 30px;
+  padding-bottom: 30px;
   margin: 20px;
 }
 
-.features article {
-  background-color: #f5f5f5;
-  box-shadow: 0 3px 7px -1px rgba(#000, .1);
-  margin: 1rem auto;
+.product {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+
+.flow {
+  width: 95%;
 }
 
 .features img {
-  border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
   width: 150px;
-  max-width: 50%;
+  max-width: 70%;
   height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 2px 3px 3px -2px #003059;
 }
 
-.team-fourths {
-  background-color: white;
-  margin-bottom: 25px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+.features p {
+  text-align: center;
+  color: #566673;
+  font-size: 17px;
+  font-style: italic;
+}
+
+.features h4 {
+  padding-top: 20px;
+  padding-bottom: 0;
+}
+
+.video {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+
+.team {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 45px;
+  padding-bottom: 45px;
 }
 
 .names {
@@ -73,8 +117,12 @@
 
 .teamimg {
   float: left;
-  width: 25%;
+  width: 15%;
   padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
 }
 
 .teamimg:hover {
@@ -82,22 +130,25 @@
   filter: grayscale(75%);
 }
 
-body {
-  background-color: #f8f8ff;
-  font-size: 1.5rem;
-  margin: 0;
+.status {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  text-align: center;
 }
 
 p {
   position: relative;
   margin: 1rem 0 0;
-  font-size: 1.5rem;
+
 }
 
 ul {
   position: relative;
   margin: 1rem 0 0;
-  font-size: 1.5rem;
+  padding-bottom: 10px;
+  list-style-image: url("./img/smartsheet-logo-mark.svg");
 }
 
 h1 {
@@ -120,4 +171,23 @@ h2 {
   padding-right: 40px;
   letter-spacing: 8px;
   padding-bottom: 120px;
+}
+
+h4 {
+  font-size: 1.5rem;
+  font-weight: 500rem;
+  text-transform: uppercase;
+  color: #287a5a;
+  letter-spacing: 5px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+
+iframe {
+  width: 90%;
+  height: 550px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
