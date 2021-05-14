@@ -103,6 +103,10 @@ body {
   padding-bottom: 45px;
 }
 
+.background {
+  background-color: #ADCAEF;
+}
+
 .team {
   padding-left: 100px;
   padding-right: 100px;
