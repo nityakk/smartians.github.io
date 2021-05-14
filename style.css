@@ -73,7 +73,6 @@ body {
 }
 
 .features img {
-  border-radius: 4px;
   padding: 5px;
   width: 150px;
   max-width: 70%;
@@ -81,7 +80,6 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: 2px 3px 3px -2px #003059;
 }
 
 .features p {
@@ -89,6 +87,9 @@ body {
   color: #566673;
   font-size: 17px;
   font-style: italic;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-top: 5px;
 }
 
 .features h4 {
@@ -114,6 +115,15 @@ body {
   padding-bottom: 45px;
 }
 
+.teamrow {
+  display: flex;
+}
+
+.team-fourths {
+  flex: 25%;
+  padding: 5px;
+}
+
 .names {
   text-align: center;
   padding: 10px 20px;
@@ -121,7 +131,7 @@ body {
 
 .teamimg {
   float: left;
-  width: 15%;
+  width: 100px;
   padding: 5px;
   display: block;
   margin-left: auto;
@@ -149,10 +159,19 @@ p {
 }
 
 ul {
-  position: relative;
-  margin: 1rem 0 0;
+  list-style: none;
   padding-bottom: 10px;
-  list-style-image: url("./img/smartsheet-logo-mark.svg");
+  margin: 1rem 0 0;
+}
+
+ul li {
+  position: relative;
+  background: url("./img/smartsheet-logo-mark.svg") no-repeat top left;
+  background-size:20px 20px;
+  line-height: 1.1;
+  background-position: 0 18px;
+  padding: 15px 0 2px 30px;
+  margin-left: 1em;
 }
 
 h1 {
@@ -194,4 +213,9 @@ iframe {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+footer img {
+  margin: 0;
+  padding: 0;
 }
