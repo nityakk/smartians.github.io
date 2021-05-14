@@ -1,23 +1,24 @@
-.coloredtext {
-  font-size: 1.5rem;
-  font-weight: 500;
-  color: #003059;
-}
-
-.defcard {
-  background-color: #ADCAEF;
-  border-left: 6px solid #003059;
-  margin: 1rem auto;
-  box-shadow: 0 3px 7px -1px rgba(#000, .1);
-  margin-left: 2%;
-  margin-bottom: 1.6%;
-  border-radius: 5px;
-  font-size: 1.5rem;
+.headings {
+  text-align:right;
+  background-image: url("./img/header.png");
+  margin-top: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .sectionheader {
-  font-size: 2rem;
-  font-weight: 500;
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 10px;
+  color: #003059;
+}
+
+.sponsor {
+  padding: 100px;
+  padding-top: 20px;
 }
 
 .sponsorlogo {
@@ -29,6 +30,19 @@
 
 .sponsorlogo:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.defcard {
+  background-color: #ADCAEF;
+  border-left: 6px solid #003059;
+  box-shadow: 0 3px 7px -1px rgba(#000, .1);
+  margin-left: 2%;
+  margin-bottom: 1.6%;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  width: 75%;
+  padding: 30px;
+  margin: 20px;
 }
 
 .features article {
@@ -69,12 +83,9 @@
 }
 
 body {
-  background-color: #f8f8ff
-  font-size: 1.5rem
-  margin-left: 10;
-  margin-right: 10;
-  margin-bottom: 10;
-
+  background-color: #f8f8ff;
+  font-size: 1.5rem;
+  margin: 0;
 }
 
 p {
@@ -90,16 +101,23 @@ ul {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: bold;
   text-transform: uppercase;
-  text-shadow: 4px 4px 5px #003059;
-  letter-spacing: 4px;
+  text-shadow: 1px 1px 1.5px #003059;
+  letter-spacing: 6px;
+  margin-top: 0;
+  padding-left: 50px;
+  padding-right: 40px;
+  padding-top: 80px;
 }
 
 h2 {
-  font-size: 4rem;
+  font-size: 1.5rem;
   font-weight: 500rem;
-  text-transform: capitalize;
+  text-transform: uppercase;
   color: #003059;
+  padding-right: 40px;
+  letter-spacing: 8px;
+  padding-bottom: 120px;
 }
