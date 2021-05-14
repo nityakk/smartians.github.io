@@ -12,6 +12,10 @@ body {
   background-size: cover;
 }
 
+.title {
+  padding-left: 450px;
+}
+
 .sectionheader {
   font-size: 2rem;
   font-weight: 700;
